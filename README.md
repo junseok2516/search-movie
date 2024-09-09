@@ -5,7 +5,7 @@ A full-stack web application that fetches movie search results, details, and the
 
 ## How to Install and Run
 1. **Frontend**:
-   - Navigate to the `search-movie` folder
+   - Navigate to the `client` folder
    - Install the necessary node modules: `npm install`
    - Run `npm start`.
 3. **Backend**:
