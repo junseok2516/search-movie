@@ -1,0 +1,32 @@
+.App {
+    display: flex;
+    height: 100vh;
+  }
+  
+  .left-pane {
+    width: 40%;
+    padding: 20px;
+    background-color: #f4f4f4;
+    overflow-y: auto;
+  }
+  
+  .right-pane {
+    width: 60%;
+    padding: 20px;
+    background-color: #fff;
+    overflow-y: auto;
+  }
+  
+  .movie-list div, .top-rated div {
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .movie-list div:hover, .top-rated div:hover {
+    background-color: #ddd;
+  }
+  
+  .movie-details {
+    margin-top: 20px;
+  }
+  
